@@ -1,9 +1,9 @@
 {
-  "permissions": {
-    "allow": [
-      "Bash(bun --version)",
-      "WebSearch",
-      "Bash(grep -v \"^\\\\.bun$\")"
-    ]
-  }
+   "permissions": {
+      "allow": [
+         "Bash(bun --version)",
+         "WebSearch",
+         "Bash(grep -v \"^\\\\.bun$\")"
+      ]
+   }
 }
